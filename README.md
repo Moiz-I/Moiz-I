@@ -1,8 +1,8 @@
-<h1>✨ Moiz Imran</h1>
+<h1>yo i'm Moiz👋</h1>
 <br /> 
 
                     
-`**Digital Craftsman (Developer / Programmer)**`
+`**designer and engineer✨**`
 
                     
 
@@ -69,10 +69,8 @@
 
                     
 
-<h2>Connect With Me</h2> 
+<h2>socials</h2> 
 <p align="left">
-<a href="https://twitter.com/Moiz_zzz" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Moiz_zzz" /></a>
-<a href="https://instagram.com/" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" /></a>
 <a href="linkedin.com/in/moiz-imran-61851820b/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p><!---
 Moiz-I/Moiz-I is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
