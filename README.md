@@ -28,7 +28,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=js,html,css,reactjs,nextjs,ts,python, java, c, haskell&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,python,nodejs,java,c,haskell&perline=9"  />
 </p>
 <br />
 
