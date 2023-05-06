@@ -1,4 +1,4 @@
-<h1>yo i'm Moiz👋</h1>
+<h1>Hey, I'm Moiz👋</h1>
 <br /> 
 
                     
