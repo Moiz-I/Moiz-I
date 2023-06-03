@@ -62,8 +62,8 @@
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/Moiz-i/leisureos-next#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moiz-i&repo=leisureos-next&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/Moiz-i/leisureos-next#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moiz-i&repo=leisureos-next&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/Moiz-I/chefster#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moiz-i&repo=chefster&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/Moiz-i/chefster#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moiz-i&repo=chefster&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
