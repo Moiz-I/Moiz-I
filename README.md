@@ -1,12 +1,10 @@
+![Banner](https://github.com/Moiz-I/Moiz-I/assets/69677514/c2b38999-e589-4f0d-84d7-35d8a1f0f722)
+
+
 <h1>Hey, I'm Moiz👋</h1>
 <br /> 
                     
 `**designer and engineer✨**`
-
-<br />
-
-![Banner](https://github.com/Moiz-I/Moiz-I/assets/69677514/c2b38999-e589-4f0d-84d7-35d8a1f0f722)
-
 
 
 <p align="left">2nd year cs student @ucl</p>
