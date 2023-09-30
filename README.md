@@ -9,7 +9,7 @@
 
 
 
-<p align="left">1st year cs student @ucl</p>
+<p align="left">2nd year cs student @ucl</p>
 <p align="left"> 
   <a href="https://github.com/Moiz-i?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Moiz-i?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
