@@ -54,9 +54,7 @@
 <br/>
 <br />
 
-<p><a href="https://github.com/Moiz-i#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Moiz-i&theme=nightowl#gh-dark-mode-only" alt="Moiz-i" /></a>
-<a href="https://github.com/Moiz-i#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Moiz-i&theme=vue#gh-light-mode-only" alt="Moiz-i" /></a></p>
-<br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moiz-i&bg_color=28294d&color=9e4c98&line=bf7dbb&point=e070ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
