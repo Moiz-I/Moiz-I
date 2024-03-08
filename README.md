@@ -1,13 +1,14 @@
 ![Banner](https://github.com/Moiz-I/Moiz-I/assets/69677514/c2b38999-e589-4f0d-84d7-35d8a1f0f722)
 
-
+<!--
 <h1>Hey, I'm Moiz👋</h1>
 <br /> 
                     
 `**designer and engineer✨**`
 
+-->
+<p align="left">2nd year cs @ucl</p>
 
-<p align="left">2nd year cs student @ucl</p>
 <p align="left"> 
   <a href="https://github.com/Moiz-i?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Moiz-i?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
